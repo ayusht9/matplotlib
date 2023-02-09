@@ -1,7 +1,7 @@
-# matplotlib
-this is where i learn matplotlib
+# Matplotlib
+This is where I learn matplotlib
 
-# what is matplotlib
+# What is matplotlib
 
 Matplotlib is a 2D plotting library in Python and it supports various types of graphs such as:
 
